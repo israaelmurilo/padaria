@@ -1,0 +1,35 @@
+
+
+
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.topo{ margin: 0 auto;
+    text-align: center;
+    img{width: 200px;padding-top: 50px;}
+  
+}
+.foto_meio{
+    margin: 0 auto;
+    text-align: center;
+}
+.texto_final{
+    margin: 0 auto;
+    text-align: center;
+    text-align: justify;
+    p{
+        width: 500px;
+        margin:0 auto;
+        text-align: justify;
+    }
+}
+
+  
+.foto_final{
+    margin: 0 auto;
+    text-align: center;
+    img{width: 50px;padding-left: 20px;padding-right: 20px;padding-top: 30px;}
+}
