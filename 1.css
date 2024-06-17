@@ -1,16 +1,9 @@
-body{
-width: 100%;
-background-image: url(fundo-floresta.jpg);
-background-size: cover;
-background-repeat: repeat-y;
+.texto{
+  position: absolute;
+  font-size: 25px;
+  left: 160px;
+  top: 115px;
+  text-align: justify;
+  padding-left: 12px;
+  padding-right: 1000px;
 }
-
-div{
-width: 980px;
-margin: 15px auto;
-text-align: center;
-background-color: white;
-padding: 50px 0; 
-
-}
-.texto{text-align: justify;padding-left: 120px;padding-right: 120px;}
